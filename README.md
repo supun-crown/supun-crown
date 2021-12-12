@@ -1,3 +1,9 @@
-### Hi, I am Supun
+## Hi there 👋 I'm Supun Praneeth
 
-I'm a software engineer and I love open source. I have contributed to few open source projects and I have few of my own. curently I am more into javascript (frontend and backend), If you have any open source projects I am happy to contribute 😊
+- 🔭 I’m currently working as a consulton and a freelancer
+- 🌱 I’m currently learning ... Kubernetes
+- 💃 I’m looking for contribute on open source projects
+- 💬 Ask me about anything regarding web development and DevOps
+- 📪 How to reach me: [supun.xyz](https://supun.xyz/)
+- 🦮 Pronouns: ... he/him
+- 💡 Working Ideas: work on a special project to bring people together [lifeeka.com](https://lifeeka.com/)
