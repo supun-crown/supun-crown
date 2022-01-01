@@ -7,3 +7,12 @@
 - 📪 How to reach me: [supun.xyz](https://supun.xyz/)
 - 🦮 Pronouns: ... he/him
 - 💡 Working Ideas: working on a special project to bring people together [lifeeka.com](https://lifeeka.com/)
+
+ 
+
+![Status](https://github-readme-stats.vercel.app/api?username=spmsupun&show_icons=true&count_private=true)
+
+
+
+
+
