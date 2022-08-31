@@ -6,7 +6,6 @@
 - 💬 Ask me about anything regarding web development and DevOps
 - 📪 How to reach me: [supun.xyz](https://supun.xyz/)
 - 🦮 Pronouns: ... he/him
-- 💡 Working Ideas: working on a special project to bring people together [lifeeka.com](https://lifeeka.com/)
 
  
 
