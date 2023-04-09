@@ -5,7 +5,6 @@
 - 💃 I’m looking for contribute on open source projects
 - 💬 Ask me about anything regarding web development and DevOps
 - 📪 How to reach me: [supun.xyz](https://supun.xyz/)
-- 🦮 Pronouns: ... he/him
 
  
 
