@@ -1,1 +1,1 @@
-<img src="https://i.imgur.com/mR2pJ.gif" width="100%" alt="Supun's Animation" />
+<img src="https://i.imgur.com/mR2pJ.gif" width="70%" alt="Supun's Animation" />
