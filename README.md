@@ -8,7 +8,7 @@
 
  
 
-![Status](https://github-readme-stats.vercel.app/api?username=spmsupun&show_icons=true&count_private=true)
+![Status](https://github-readme-stats.vercel.app/api?username=supun-crown&show_icons=true&count_private=true)
 
 
 
